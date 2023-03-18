@@ -5,7 +5,7 @@ values interpolation by the distance between target and attractor.
 
 In this example the target is animated camera, and attractor is the red cube. When the camera is close to the cube, the behavior class increase the camera shake amplitude. The amplitude is equal to zero by default, and increase when distance between camera and attractor is less than 5, and when distance is less than 1 the amplitude has maximum value.
 
-![Example](docs/example.mp4)
+https://user-images.githubusercontent.com/2697890/226103352-4f040da2-5432-4180-819b-b82bab689978.mp4
 
 ## Installation
 
